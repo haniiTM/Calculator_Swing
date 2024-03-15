@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d2e83cb-811a-4979-8c6c-5af79b07f2ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectLR1src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/tstu/sapr/lr1/CalcGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/tstu/sapr/lr1/CalcGUI.java" afterDir="false" />
+    <list default="true" id="70b64114-9b12-4d2f-bf01-54d05cdb5d0c" name="Changes" comment="CalcGUI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectLR1src/ru/tstu/sapr/lr1/CalcGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/tstu/sapr/lr1/CalcGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/tstu/sapr/lr1/CalcGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +20,34 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1710500489" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1710500488" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
-  <component name="ProjectId" id="2diVtiMLKR0LOQ120ahlFHE0AZP" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dipYOE1MVUQDvPQ8fXtRjc3MYn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,32 +55,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/fattyBatty/IdeaProjects/ProjectLR1src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d2e83cb-811a-4979-8c6c-5af79b07f2ed" name="Changes" comment="" />
-      <created>1710426598669</created>
+      <changelist id="70b64114-9b12-4d2f-bf01-54d05cdb5d0c" name="Changes" comment="CalcGUI" />
+      <created>1710500799968</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710426598669</updated>
-      <workItem from="1710491102588" duration="330000" />
-      <workItem from="1710499454869" duration="597000" />
+      <updated>1710500799968</updated>
+      <workItem from="1710500808682" duration="136000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
